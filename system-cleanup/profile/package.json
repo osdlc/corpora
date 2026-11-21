@@ -1,0 +1,23 @@
+{
+  "name": "@osdlc/corpus-profile-system-cleanup",
+  "version": "0.1.0",
+  "description": "The system cleanup profile for corpus-schema: record types for a cited record of where tools and apps keep data that can be reclaimed from disk (stores, subjects, statements, study results), built on the claims profile.",
+  "license": "MIT OR Apache-2.0",
+  "author": "sksizer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osdlc/corpora.git",
+    "directory": "system-cleanup/profile"
+  },
+  "homepage": "https://github.com/osdlc/corpora/tree/main/system-cleanup/profile#readme",
+  "bugs": "https://github.com/osdlc/osdlc/issues",
+  "keywords": ["corpus-schema", "corpus-profile", "claims", "disk", "cleanup", "markdown"],
+  "corpus": "corpus",
+  "files": ["corpus/", "README.md"],
+  "peerDependencies": {
+    "@osdlc/corpus-profile-claims": "^0.1.0"
+  },
+  "devDependencies": {
+    "@osdlc/corpus-profile-claims": "^0.1.0"
+  }
+}
