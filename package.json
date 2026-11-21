@@ -1,0 +1,16 @@
+{
+  "name": "osdlc-corpora",
+  "private": true,
+  "type": "module",
+  "description": "Workspace root for the corpus-schema profiles and corpora in this repository.",
+  "packageManager": "pnpm@10.28.0",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "validate": "corpus-schema validate --strict system-cleanup/profile/corpus system-cleanup/reference/corpus"
+  },
+  "devDependencies": {
+    "@osdlc/corpus-schema": "^0.5.2"
+  }
+}

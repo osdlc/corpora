@@ -1,0 +1,5 @@
+# The profiles and corpora are workspace members, so a corpus finds the profile it extends by
+# package name. They hold Markdown and JSON Schema and no code.
+packages:
+  - 'system-cleanup/profile'
+  - 'system-cleanup/reference'
