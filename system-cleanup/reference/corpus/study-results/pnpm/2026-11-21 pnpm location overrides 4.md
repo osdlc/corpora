@@ -9,7 +9,7 @@ excerpt:
   exact: If the $XDG_STATE_HOME env variable is set, then $XDG_STATE_HOME/pnpm
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

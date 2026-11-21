@@ -27,7 +27,7 @@ hasEvidenceLines:
     so a cleaner should skip it when it is tracked by git.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

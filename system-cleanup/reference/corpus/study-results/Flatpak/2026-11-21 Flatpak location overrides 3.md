@@ -9,7 +9,7 @@ excerpt:
   exact: more system-wide installations can be defined via configuration files in /etc/flatpak/installations.d/
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

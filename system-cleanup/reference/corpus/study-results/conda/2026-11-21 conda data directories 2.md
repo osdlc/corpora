@@ -12,7 +12,7 @@ excerpt:
     envs directory in the root directory, for which the normal root_dir/pkgs is used.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

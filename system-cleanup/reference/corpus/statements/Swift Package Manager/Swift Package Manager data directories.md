@@ -22,7 +22,7 @@ hasEvidenceLines:
     appends org.swift.swiftpm to the user caches directory and falls back to ~/.swiftpm/cache.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

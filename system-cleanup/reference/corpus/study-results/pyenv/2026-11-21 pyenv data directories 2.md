@@ -9,7 +9,7 @@ excerpt:
   exact: As time goes on, you will accumulate Python versions in your `$(pyenv root)/versions` directory.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

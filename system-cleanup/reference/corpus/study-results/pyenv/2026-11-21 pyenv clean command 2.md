@@ -9,7 +9,7 @@ excerpt:
   exact: Alternatively, you can simply `rm -rf` the directory of the version you want to remove.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

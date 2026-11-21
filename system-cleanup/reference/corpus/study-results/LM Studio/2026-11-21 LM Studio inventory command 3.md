@@ -9,7 +9,7 @@ excerpt:
   exact: The lms ps command displays information about all models currently loaded in memory.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

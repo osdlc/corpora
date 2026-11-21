@@ -9,7 +9,7 @@ excerpt:
   exact: The `python remove` command removes the specified Python version if managed by Poetry.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

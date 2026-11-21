@@ -11,7 +11,7 @@ excerpt:
   exact: Deletes the given dependencies' files, including build artifacts and fetched sources.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

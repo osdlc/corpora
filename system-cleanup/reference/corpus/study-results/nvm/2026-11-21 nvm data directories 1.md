@@ -10,7 +10,7 @@ excerpt:
     location (`$XDG_CONFIG_HOME/nvm` when `XDG_CONFIG_HOME` is set, otherwise `~/.nvm`).
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

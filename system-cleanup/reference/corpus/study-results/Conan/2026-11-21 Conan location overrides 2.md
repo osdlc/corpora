@@ -11,7 +11,7 @@ excerpt:
   exact: 'core.cache:storage_path: Absolute path where the packages and database are stored'
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

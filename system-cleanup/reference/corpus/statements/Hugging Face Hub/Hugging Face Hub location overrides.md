@@ -27,7 +27,7 @@ hasEvidenceLines:
     XDG_CACHE_HOME as fallback, and HUGGINGFACE_HUB_CACHE as the legacy name of HF_HUB_CACHE.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

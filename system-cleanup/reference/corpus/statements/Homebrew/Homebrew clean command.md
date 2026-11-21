@@ -26,7 +26,7 @@ hasEvidenceLines:
   description: All four commands are documented in the brew manpage.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

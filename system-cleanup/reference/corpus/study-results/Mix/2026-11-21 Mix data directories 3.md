@@ -11,7 +11,7 @@ excerpt:
   exact: MIX_INSTALL_DIR (since v1.12.0) - specifies directory where Mix.install/2 keeps install cache
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

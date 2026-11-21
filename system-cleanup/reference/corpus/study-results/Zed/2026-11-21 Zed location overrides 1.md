@@ -9,7 +9,7 @@ excerpt:
   exact: Sets a custom directory for all user data (e.g., database, extensions, logs).
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

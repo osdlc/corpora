@@ -25,7 +25,7 @@ hasEvidenceLines:
   description: The store and cache command pages document these as the ways to reclaim space.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

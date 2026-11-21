@@ -9,7 +9,7 @@ excerpt:
   exact: The location of the per-user installation. If this is not set, $XDG_DATA_HOME/flatpak is used.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

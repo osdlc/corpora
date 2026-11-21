@@ -11,7 +11,7 @@ excerpt:
   exact: Yarn stores every package in a global cache in your user directory on the file system.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

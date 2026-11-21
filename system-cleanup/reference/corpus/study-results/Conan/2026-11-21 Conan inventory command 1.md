@@ -11,7 +11,7 @@ excerpt:
   exact: List existing recipes, revisions, or packages in the cache (by default) or the remotes.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

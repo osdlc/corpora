@@ -9,7 +9,7 @@ excerpt:
   exact: If you use Cursor Agent, generated worktrees under `~/.cursor/worktrees/` can add up.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

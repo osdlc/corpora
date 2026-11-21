@@ -9,7 +9,7 @@ excerpt:
   exact: REMOTE_SERVERS_DIR.get_or_init(|| data_dir().join("remote_servers"))
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

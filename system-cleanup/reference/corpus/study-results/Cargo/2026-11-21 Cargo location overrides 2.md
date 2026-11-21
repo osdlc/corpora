@@ -9,7 +9,7 @@ excerpt:
   exact: To change the location of the target-dir, you can set the CARGO_TARGET_DIR environment variable
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

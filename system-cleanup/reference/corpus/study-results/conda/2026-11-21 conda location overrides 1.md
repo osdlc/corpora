@@ -11,7 +11,7 @@ excerpt:
   exact: The CONDA_PKGS_DIRS environment variable overwrites the pkgs_dirs setting.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

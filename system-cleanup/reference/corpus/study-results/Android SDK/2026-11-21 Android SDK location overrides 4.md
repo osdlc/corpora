@@ -9,7 +9,7 @@ excerpt:
   exact: You might want to specify a new location if the default location is low on disk space.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

@@ -10,7 +10,7 @@ excerpt:
     and purges any objects that are no longer needed to free up disk space.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

@@ -11,7 +11,7 @@ excerpt:
   exact: 'The list command allows you to view all of your currently installed applications:'
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

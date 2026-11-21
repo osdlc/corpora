@@ -9,7 +9,7 @@ excerpt:
   exact: Once you have created your `Modelfile`, use the `ollama create` command to build the model.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

@@ -10,7 +10,7 @@ excerpt:
     installations), image contents and container snapshots are stored in /var/lib/containerd
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

@@ -9,7 +9,7 @@ excerpt:
   exact: Run claude purge to delete the state Claude Code holds for one project.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

@@ -9,7 +9,7 @@ excerpt:
   exact: /// Return the top-level directory in the cache; this is `bin/cache`.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

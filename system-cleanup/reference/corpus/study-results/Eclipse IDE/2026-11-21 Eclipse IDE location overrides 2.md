@@ -9,7 +9,7 @@ excerpt:
   exact: For example, the Resources plug-in uses this as the default location for projects (aka the workspace).
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

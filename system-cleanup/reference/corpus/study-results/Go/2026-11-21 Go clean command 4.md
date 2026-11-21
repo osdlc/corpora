@@ -9,7 +9,7 @@ excerpt:
   exact: The -fuzzcache flag causes clean to remove files stored in the Go build cache for fuzz testing.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

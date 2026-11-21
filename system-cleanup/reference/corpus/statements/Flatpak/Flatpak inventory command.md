@@ -18,7 +18,7 @@ hasEvidenceLines:
   description: flatpak list shows apps and runtimes, and its size column gives installed size.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

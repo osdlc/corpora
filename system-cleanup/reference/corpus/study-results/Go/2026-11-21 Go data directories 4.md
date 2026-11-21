@@ -9,7 +9,7 @@ excerpt:
   exact: ($HOME/go on Unix, %USERPROFILE%\go on Windows), unless that directory holds a Go distribution.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

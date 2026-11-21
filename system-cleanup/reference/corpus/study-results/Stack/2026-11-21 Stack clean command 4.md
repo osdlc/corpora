@@ -11,7 +11,7 @@ excerpt:
   exact: To remove a Stack-supplied tool, delete all of the above.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

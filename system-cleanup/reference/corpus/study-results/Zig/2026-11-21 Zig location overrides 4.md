@@ -9,7 +9,7 @@ excerpt:
   exact: This directory is not chosen by the project, but by the user of zig build with the --prefix flag
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

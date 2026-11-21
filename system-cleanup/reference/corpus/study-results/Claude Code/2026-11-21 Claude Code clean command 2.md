@@ -10,7 +10,7 @@ excerpt:
     it keeps the two newest versions and deletes the rest.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

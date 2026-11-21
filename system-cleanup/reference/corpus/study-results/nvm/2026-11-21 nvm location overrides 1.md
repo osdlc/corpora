@@ -9,7 +9,7 @@ excerpt:
   exact: If the environment variable `$XDG_CONFIG_HOME` is present, it will place the `nvm` files there.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

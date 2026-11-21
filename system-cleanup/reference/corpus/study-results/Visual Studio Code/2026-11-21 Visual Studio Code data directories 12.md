@@ -9,7 +9,7 @@ excerpt:
   exact: If this happened after an update, deleting the GPUCache directory can resolve the issue.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

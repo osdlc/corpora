@@ -12,7 +12,7 @@ excerpt:
     variable if it's defined, else the coursier.install.dir Java property if it's defined
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

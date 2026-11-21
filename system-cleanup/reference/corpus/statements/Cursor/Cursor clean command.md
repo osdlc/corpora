@@ -22,7 +22,7 @@ hasEvidenceLines:
   description: Cursor's help gives the two palette commands to run in order and the worktree cleanup controls.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

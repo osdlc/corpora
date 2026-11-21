@@ -11,7 +11,7 @@ excerpt:
   exact: you can delete ComponentModelCache folder under both 2 directories with indicated 17.0
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

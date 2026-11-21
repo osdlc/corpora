@@ -11,7 +11,7 @@ excerpt:
   exact: The build path is built based on the :build_path configuration (which defaults to "_build"
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

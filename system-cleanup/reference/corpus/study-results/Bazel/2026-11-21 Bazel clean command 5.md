@@ -10,7 +10,7 @@ excerpt:
     to set a maximum size for the disk cache or for the age of individual cache entries.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

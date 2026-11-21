@@ -20,7 +20,7 @@ hasEvidenceLines:
     app on macOS and Windows) listening on 127.0.0.1:11434; no lock file is documented.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

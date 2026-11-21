@@ -18,7 +18,7 @@ hasEvidenceLines:
     can treat it as a sign the project is open (it may be left behind if sbt is killed).
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

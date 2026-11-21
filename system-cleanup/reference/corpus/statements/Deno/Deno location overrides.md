@@ -18,7 +18,7 @@ hasEvidenceLines:
   description: DENO_DIR sets the cache directory; XDG_CACHE_HOME is consulted when DENO_DIR is unset.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'

@@ -9,7 +9,7 @@ excerpt:
   exact: npm stores cache data in an opaque directory within the configured `cache`, named `_cacache`.
 contributions:
 - contributor:
-    name: cleanup-reference research
+    name: system-cleanup research
     agentType: software
   activityType: created
   date: '2026-11-21T00:00:00Z'
