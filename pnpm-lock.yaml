@@ -9,31 +9,31 @@ importers:
   .:
     devDependencies:
       '@osdlc/corpus-schema':
-        specifier: ^0.5.2
-        version: 0.5.2
+        specifier: ^0.6.0
+        version: 0.6.0
 
   system-cleanup/profile:
     devDependencies:
       '@osdlc/corpus-profile-claims':
-        specifier: ^0.1.0
-        version: 0.1.0
+        specifier: ^0.2.0
+        version: 0.2.0
 
   system-cleanup/reference:
     devDependencies:
       '@osdlc/corpus-profile-claims':
-        specifier: ^0.1.0
-        version: 0.1.0
+        specifier: ^0.2.0
+        version: 0.2.0
       '@osdlc/corpus-profile-system-cleanup':
         specifier: workspace:*
         version: link:../profile
 
 packages:
 
-  '@osdlc/corpus-profile-claims@0.1.0':
-    resolution: {integrity: sha512-GWmsyKrK4UkFWl+S1kCmNmN2sfoUdeeXRSQuQ+HzoQ4zwI1U0VhcFnGLctmH0+3gnvrmXrXMVdU6BPN30sWzCg==}
+  '@osdlc/corpus-profile-claims@0.2.0':
+    resolution: {integrity: sha512-6ioaWncjpfh2zopXwVR859FGY1DKHNyXvRbOs2vvX/qrPlfE6oZedqoUxYesfLGtra5OJ/YSlCUXEOJRLpj1dg==}
 
-  '@osdlc/corpus-schema@0.5.2':
-    resolution: {integrity: sha512-Y8l0seKAle8x9tFa9zetvanVDztjmjUJyLaGXeC0UeGzIXVHDz3YNuFeIlmU3PlF8OBIAYghZ6i/LyR/+XVbnA==}
+  '@osdlc/corpus-schema@0.6.0':
+    resolution: {integrity: sha512-QNYpoWljPtvtDk7nZrLOfq1XDftaEVWCYc+8Q9sO7kyidBdr49ZkwLV+EBRLxXi+Zy89p9x2DwhPaTN8wL+PZQ==}
     engines: {node: '>=22'}
     hasBin: true
 
@@ -41,8 +41,8 @@ packages:
     resolution: {integrity: sha512-ckZPpz+i5aRTmncUvrPOvuXm7rQDqaaluhkUn/wxCmWXFwdGyxJgLkGBpqnyd1AyYUoDiMZ3vmV4dsW2tv7J6Q==}
     engines: {node: '>=22'}
 
-  '@osdlc/markdown-link@0.11.0':
-    resolution: {integrity: sha512-kP4d/8M0XKJiQDDgPqusNHgDHrZTI+K1n+BTwZhiGEwTlhj+rNpqXgy6g1PFPGmE26pffysSx9I0S5Bcc/iXSg==}
+  '@osdlc/markdown-link@0.11.1':
+    resolution: {integrity: sha512-CKMIs1ih+BG1szfFVjhUeOz8n/S5/qCn0tR9b16E8J9N/8+4uimHTqvjrAdaPI6l3t0LFt2aImTg/zMnzJu58w==}
     engines: {node: '>=22'}
 
   ajv-formats@3.0.1:
@@ -76,19 +76,19 @@ packages:
 
 snapshots:
 
-  '@osdlc/corpus-profile-claims@0.1.0': {}
+  '@osdlc/corpus-profile-claims@0.2.0': {}
 
-  '@osdlc/corpus-schema@0.5.2':
+  '@osdlc/corpus-schema@0.6.0':
     dependencies:
       '@osdlc/frontmatter-lossless': 1.1.2
-      '@osdlc/markdown-link': 0.11.0
+      '@osdlc/markdown-link': 0.11.1
       ajv: 8.20.0
       ajv-formats: 3.0.1(ajv@8.20.0)
       yaml: 2.9.1
 
   '@osdlc/frontmatter-lossless@1.1.2': {}
 
-  '@osdlc/markdown-link@0.11.0': {}
+  '@osdlc/markdown-link@0.11.1': {}
 
   ajv-formats@3.0.1(ajv@8.20.0):
     optionalDependencies:

@@ -11,6 +11,6 @@
     "validate": "corpus-schema validate --strict system-cleanup/profile/corpus system-cleanup/reference/corpus"
   },
   "devDependencies": {
-    "@osdlc/corpus-schema": "^0.5.2"
+    "@osdlc/corpus-schema": "^0.6.0"
   }
 }
