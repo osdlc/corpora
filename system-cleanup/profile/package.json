@@ -15,7 +15,7 @@
   "corpus": "corpus",
   "files": ["corpus/", "README.md"],
   "peerDependencies": {
-    "@osdlc/corpus-profile-claims": "^0.1.0"
+    "@osdlc/corpus-profile-claims": "^0.1.0 || ^0.2.0"
   },
   "devDependencies": {
     "@osdlc/corpus-profile-claims": "^0.2.0"
